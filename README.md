@@ -1,4 +1,5 @@
 # PIC16F877A-LCD-Scrolling-Text
+
 LCD scrolling text project using PIC16F877A microcontroller.
 This project demonstrates how to interface a 16x2 LCD (LM016L) with a PIC16F877A microcontroller in 8-bit mode using mikroC PRO for PIC.
 It includes manually written LCD control functions (LCD_Command, LCD_Char, LCD_Print, etc.) — without relying on mikroC’s built-in LCD library.
